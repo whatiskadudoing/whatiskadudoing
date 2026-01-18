@@ -10,4 +10,4 @@ I work at two companies in Spain and Germany, so free time is rare. But when I g
 
 ## Tech
 
-TypeScript · Swift · JavaScript · Next.js · GraphQL · Astro · Shell · macOS
+TypeScript · React · Next.js · Node.js · Swift · GraphQL · and much more

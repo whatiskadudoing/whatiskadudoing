@@ -1,12 +1,13 @@
 ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Hey! I'm **Kadu**, a Brazilian developer who's lived across the globe — China, Spain, Germany — and currently based in **Santiago, Chile**. When I'm not working, I build cool stuff.
+Hey! I'm **Kadu**, a Brazilian developer who's lived across the globe — China, Spain, Germany — and currently based in **Santiago, Chile**.
 
-## What I'm Building
+I work at two companies in Spain and Germany, so free time is rare. But when I get it, I build stuff.
 
-- **[ralph-vibe](https://github.com/whatiskadudoing/ralph-vibe)** — Autonomous development with Claude Code. More than a philosophy. More than vibe coding.
-- **[koe](https://github.com/whatiskadudoing/koe)** — 声 (Koe) - Local voice-to-text dictation for macOS
+## Currently Focused On
+
+**[ralph-vibe](https://github.com/whatiskadudoing/ralph-vibe)** — Autonomous development with Claude Code. More than a philosophy. More than vibe coding.
 
 ## Tech
 
-Swift · TypeScript · macOS · AI tooling
+TypeScript · Swift · JavaScript · Next.js · GraphQL · Astro · Shell · macOS

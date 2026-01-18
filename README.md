@@ -2,7 +2,7 @@
 
 Hey! I'm **Kadu**, a Brazilian developer who's lived across the globe — China, Spain, Germany — and currently based in **Santiago, Chile**.
 
-I work at two companies in Spain and Germany, so free time is rare. But when I get it, I build stuff.
+I work on multiple projects across the UK, Germany, and Spain, so free time is rare. But when I get it, I build stuff.
 
 ## Currently Focused On
 
